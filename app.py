@@ -1,1 +1,1 @@
-print ("This is my new change in my own newly created my_branch, commit..")
+print ("This is my new change in my newly created aws ec2 branch: from_ec2..")
